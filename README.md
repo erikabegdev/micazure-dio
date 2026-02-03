@@ -51,4 +51,13 @@ As imagens abaixo demonstram os recursos criados e a estrutura final da infraest
 ![14](https://github.com/user-attachments/assets/ef1a702b-c06b-4eb6-88d2-051d0d8277a8)
 ![17](https://github.com/user-attachments/assets/9d826ecc-f147-4f18-93b7-5d7205eef564)
 
+## 🧠 Principais Aprendizados
+
+- Como organizar recursos em **Resource Groups** para governança.
+- Diferença entre **ingestão**, **processamento** e **orquestração** de dados.
+- Criação e manipulação de recursos no **portal Azure**.
+- Importância de serviços de **monitoramento e segurança** (Key Vault, Log Analytics).
+- Visão de arquitetura aplicada em um ambiente de dados real.
+
+
 
